@@ -1,0 +1,6 @@
+{
+  "name": "BalanceIt",
+  "description": "An interactive O-Level Accounting balance sheet builder and checker for students",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
